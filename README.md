@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @InsaneWerido
+- 👀 I’m interested in video game development/design
+- 🌱 I’m currently learning HTML, JavaScript, and CSS.
+- 📫 You can reach me by commenting on my GameJolt page.
